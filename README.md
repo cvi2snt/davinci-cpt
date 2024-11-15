@@ -2,7 +2,8 @@
 ### [Ahmet Serdar Karadeniz](https://askaradeniz.github.io/), [Dimitrios Mallis](https://dimitrismallis.github.io/), [Nesryne Mejri](https://www.uni.lu/snt-en/people/nesryne-mejri/), [Kseniya Cherenkova](https://www.linkedin.com/in/kseniya-cherenkova-a3a65a54/), [Anis Kacem](https://www.uni.lu/snt-en/people/anis-kacem/), [Djamila Aouada](https://www.uni.lu/snt-en/people/djamila-aouada/)
 
 #### 🎉 _This work is accepted for publication in [BMVC2024](https://bmvc2024.org/)!!_
-#### 📢 _Stay tuned—our dataset and accompanying code will be released soon._
+
+### Download [CPTSketchGraphs dataset](https://uniluxembourg-my.sharepoint.com/:u:/g/personal/ahmet_karadeniz_uni_lu/EQckRDX2L1BDl8fjYuPmhycBGFGd4f8SjDV8ap32tUDoCg?e=KW8e2H&download=1) (17.1 GB).
 
 This is the repository for the **CPTSketchGraphs** dataset, a collection of 50 million *Constraint Preserving Transformations (CPTs)* of CAD sketches. CPTs are derived from CAD sketches of the large-scale [SketchGraphs](https://github.com/PrincetonLIPS/SketchGraphs/tree/master) dataset. We aim for **CPTSketchGraphs** to serve as a valuable resource for advancing research in the CAD sketch domain.
 
