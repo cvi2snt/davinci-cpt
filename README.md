@@ -3,6 +3,7 @@
 
 #### 🎉 _This work is accepted for publication in [BMVC2024](https://bmvc2024.org/)!!_
 
+### Download [CPTSketchGraphs dataset](https://uniluxembourg-my.sharepoint.com/:u:/g/personal/ahmet_karadeniz_uni_lu/EQckRDX2L1BDl8fjYuPmhycBGFGd4f8SjDV8ap32tUDoCg?e=KW8e2H&download=1) (17.1 GB).
 
 This is the repository for the **CPTSketchGraphs** dataset, a collection of 80 million *Constraint Preserving Transformations (CPTs)* of CAD sketches. CPTs are derived from CAD sketches of the large-scale [SketchGraphs](https://github.com/PrincetonLIPS/SketchGraphs/tree/master) dataset. We aim for **CPTSketchGraphs** to serve as a valuable resource for advancing research in the CAD sketch domain.
 
@@ -17,7 +18,7 @@ A random local perturbation, such as the translation of a sketch point, is autom
 ![alt text](assets/cpt_mechanism.png "The CPT augmentation Strategy")
 
 ## CPTSketchGraphs Dataset
-You can access the dataset using this SharePoint [link](). The `cptsketchgraphs.npy`(18 GB) file should be downloaded within the `CPTSketchGraphs/data` directory.
+You can access the dataset using this SharePoint [link](https://uniluxembourg-my.sharepoint.com/:u:/g/personal/ahmet_karadeniz_uni_lu/EQckRDX2L1BDl8fjYuPmhycBGFGd4f8SjDV8ap32tUDoCg?e=KW8e2H&download=1). The `cptsketchgraphs.npy`(18 GB) file should be downloaded within the `CPTSketchGraphs/data` directory.
 
 The CPTs shared in this work are derived from CAD sketches from the [SketchGraphs](https://github.com/PrincetonLIPS/SketchGraphs/tree/master) dataset. We use the preprocessing as in [Vitruvion](https://github.com/PrincetonLIPS/vitruvion/tree/main). For effective visualization of both CPTs and original CAD sketches, the user can optionally download the filtered sequences in `sg_filtered_unique.npy` as described [here](https://github.com/PrincetonLIPS/vitruvion/tree/main?tab=readme-ov-file#data).
 
